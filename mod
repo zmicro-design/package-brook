@@ -1,4 +1,4 @@
 NAME=brook
-VERSION=v0.0.0
+VERSION=v1.0.0
 MODULE=package
-DESCRIPTION="Highly opinionated MTPROTO proxy for Telegram"
+DESCRIPTION="A cross-platform network tool designed for developers"
